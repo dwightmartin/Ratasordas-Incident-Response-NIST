@@ -112,9 +112,9 @@ The recover function focuses on restoring services after an incident.
 
 ### **Lessons Learned**
 
-* **Business Impact:** The three-day recovery time was unacceptable and had a significant impact on the business. It rendered the core product unusable, likely leading to a loss of user trust and potential revenue.  
-* **Root Cause of Delay:** The delay was not a technical failure but a process failure caused by the lack of a standardized naming convention for the graphics. This meant the graphics team had to manually match and re-upload each file one by one.  
-* **Continuous Improvement:** A new policy has since been implemented to use a standardized naming nomenclature for all graphics. This change allows for **near-immediate recovery** in the future, dramatically reducing the potential for business disruption.
+* **Strategic Governance Failure:** The incident highlighted a critical failure in governance. We learned that we cannot rely on a third-party vendor to determine the criticality of an asset. The wordless nature of our app makes graphics a high-priority asset, and as such, we must be proactive in setting and enforcing security expectations for all vendors.  
+* **Operational Process Failure:** The three-day recovery time was not due to a technical failure but a process failure. The lack of a standardized naming convention for graphics meant the team had to manually match and re-upload each file, which was a time-consuming and inefficient process.  
+* **Business Impact and Remediation:** This delay was unacceptable from a business perspective, as it rendered our core product unusable and likely led to a loss of user trust and potential revenue. A new policy has since been implemented to use a standardized naming nomenclature for all graphics. This change allows for a near-immediate recovery in the future, dramatically reducing the potential for business disruption.
 
 ### **Skills Demonstrated**
 
