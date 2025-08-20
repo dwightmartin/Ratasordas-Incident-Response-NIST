@@ -20,3 +20,5 @@ To improve security and prevent future incidents, we recommend a strategic plan 
 * **Recover:** Ensuring all critical assets have a formal, tested backup and recovery plan, including a standardized naming convention for graphics to enable **near-immediate recovery** in the future.
 
 This project demonstrates a strong understanding of professional cybersecurity principles, from incident analysis and risk management to strategic planning and continuous improvement.
+
+Cover image for this project was created using a Generative AI tool.
