@@ -2,7 +2,7 @@
 
 ### **Project Overview**
 
-This document serves as a post-incident report and strategic plan for Ratasordas Technologies, a SaaS company specializing in a wordless, graphic-based app. The project analyzes a recent security incident that rendered the company's app unusable and provides strategic recommendations for improving the company's security posture using the National Institute of Standards and Technology (NIST) Cybersecurity Framework 2.0.
+This document serves as a post-incident report and strategic plan for Ratasordas Technologies, a fictional SaaS company specializing in a wordless, graphic-based app. The project analyzes a recent security incident that rendered the company's app unusable and provides strategic recommendations for improving the company's security posture using the National Institute of Standards and Technology (NIST) Cybersecurity Framework 2.0.
 
 ### **Incident Narrative**
 
