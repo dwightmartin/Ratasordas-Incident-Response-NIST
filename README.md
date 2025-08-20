@@ -2,7 +2,7 @@
 
 ### **Project Overview**
 
-This project outlines a post-incident report and strategic plan for Ratasordas Technologies following a data manipulation attack that rendered their app unusable. The report uses the **NIST Cybersecurity Framework 2.0** to analyze the incident and provides a strategic roadmap for improving the company’s security posture.
+This project outlines a post-incident report and strategic plan for Ratasordas Technologies, a fictional company, following a data manipulation attack that rendered their app unusable. The report uses the **NIST Cybersecurity Framework 2.0** to analyze the incident and provides a strategic roadmap for improving the company’s security posture.
 
 ### **Key Findings & Actions Taken**
 
